@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RepasoP2PDM</string>
+    <string name="titulo_actividad_Vehiculo">MenuActivityVehiculos</string>
+    <string name="titulo_actividad_Conductor">MenuActivityVehiculos</string>
+    <string name="titulo_actividad_insertar_Vehiculo">VehiculosInsertarACtivity</string>
+    <string name="titulo_actividad_insertar_Conductor">ConductorInsertarACtivity</string>
+    <string name="titulobtn_insertar_vehiculo">Ingresar Vehiculo</string>
+    <string name="titulobtn_insertar_Conductor">Ingresar Conductor</string>
+    <!-- Solicitudes para Conductor -->
+    <string name="ingresar_id_conductor">Codigo de Conductor:</string>
+    <string name="ingresar_nombre_conductor">Ingrese el Nombre del Conductor:</string>
+    <string name="ingresar_direccion_conductor">Dirección:</string>
+    <string name="ingresar_telefono_conductor">Teléfono :</string>
+    <string name="ingresar_cantidad_vehiculos_conductor">Cantidad de Vehiculos</string>
+    <string name="insertar_Condutor">Registrar Conductor</string>
+    <!-- Solicitudes para Vehículo -->
+    <string name="ingresar_id_vehiculo">Ingrese el ID del Vehículo:</string>
+    <string name="ingresar_id_conductor_vehiculo">Ingrese el ID del Conductor del Vehículo:</string>
+    <string name="ingresar_marca_vehiculo">Ingrese la Marca del Vehículo:</string>
+    <string name="ingresar_modelo_vehiculo">Ingrese el Modelo del Vehículo:</string>
+    <string name="ingresar_anho_vehiculo">Ingrese el Año del Vehículo:</string>
+    <string name="ingresar_placa_vehiculo">Ingrese la Placa del Vehículo:</string>
+</resources>
